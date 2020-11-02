@@ -1,0 +1,111 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Dosis', sans-serif;
+}
+h1 {
+  color: #333333;
+margin-top: 0;
+font-size: 5em;
+font-family: 'Dancing Script', cursive;
+}
+h2 {
+  color: #333333;
+  font-size: 2rem;
+  font-weight: normal;
+}
+p {
+  font-size: 1.2rem;
+}
+.top-contanier {
+  background-color: #ccda46;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container {
+margin: 80px 0;
+}
+.bottom-container {
+background-color: #fddb3a;
+padding: 50px 0 20px;
+}
+p {
+  line-height: 2;
+}
+a {
+color: #fa163f;
+font-family: 'Dosis', sans-serif;
+margin: 10px 20px;
+text-decoration: none;
+}
+a:hover {
+  color: #effcef;
+}
+
+.contact-me {
+  width: 40%;
+  margin: 60px auto 40px;
+}
+hr {
+  border: dotted #e32249 6px;
+  border-bottom: none;
+  width: 6%;
+  margin: 50px auto;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+ top: 20px;
+
+}
+.bottom-cloud {
+  position: absolute;
+}
+.computer-1 {
+  width: 15%;
+  float: left;
+  margin-right: 20px;
+}
+.computer-2 {
+  width: 15%;
+  float: right;
+  margin-left: 20px;
+}
+.intro {
+  width: 30%;
+  margin: auto;
+}
+.btn {
+	box-shadow:inset 0px 1px 0px 0px #a4e271;
+	background:linear-gradient(to bottom, #89c403 5%, #77a809 100%);
+	background-color:#89c403;
+	border-radius:6px;
+	border:1px solid #74b807;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #528009;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #77a809 5%, #89c403 100%);
+	background-color:#77a809;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.copy-right {
+  font-size: 0.75rem;
+  padding: 10px 0;
+}
